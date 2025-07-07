@@ -12,4 +12,4 @@ To add JavaScript (as soon as I master JavaScript) <br>
 To add a copy feature, email, and number get copied when the user clicks on it <br>
 Reload my progress bars when they come into the viewport <br>
 Make a database for form <br>
-## FOR ANY SUGGESTIONS, CONTACT ME ON - 8968505456
+## FOR ANY SUGGESTIONS, EMAIL ME - vishal.hit555@gmail.com
